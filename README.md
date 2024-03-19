@@ -10,7 +10,6 @@
 - 📫 How to reach me **huynd95@fpt.edu.vn**
 
 - ⚡ Fun fact **I study at least 6 hours a day, regularly since 2017.**
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
